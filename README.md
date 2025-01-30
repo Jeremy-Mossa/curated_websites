@@ -39,6 +39,7 @@ Will update this if others provide more useful links
 * [https://www.burnerapp.com](https://www.burnerapp.com/)   Second phone number for calling, texting etc.
 
 ## Privacy 
+* [https://www.privacyguides.org](https://www.privacyguides.org)  some decent privacy links and guides
 * [https://ahmia.fi](https://ahmia.fi/)   Searches hidden services on the Tor network. Requires: TOR browser bundle.
 * [https://ssd.eff.org](https://ssd.eff.org/)   EFF privacy guides
 * [http://bugmenot.com](http://bugmenot.com/)   Possibly bs logins for websites.
