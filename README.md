@@ -43,7 +43,7 @@ Will update this if others provide more useful links
 * [https://cidr.online](https://cidr.online/) :  Subnet/CIDR calculator. IPv4 CIDR range and calculates IP addrs, tools etc.
 * [https://www.copypastecharacter.com](https://www.copypastecharacter.com/) : Copy special characters that aren't on your keyboard.
 * [https://devlids.com](https://devlids.com/) :  Devlids is a gallary of laptop-lids decorated with laptop stickers.
-* [https://www.davidc.net/sites/default/subnets/subnets.html](https://www.davidc.net/sites/default/subnets/subnets.html) : Visual Subnet Calculator for those folks working in Computer Networking. 
+* [https://www.davidc.net/sites/default/subnets/subnets.html](https://www.davidc.net/sites/default/subnets/subnets.html) :  visual subnet calculator
 * [https://deriveit.org](https://deriveit.org/) : A simpler way to prepare for coding interviews. Learn a fundamental approach to solving coding problems, and finally know you're ready for your coding interviews.
 
 * [https://nickmakes.website/slack-emoji-converter](https://nickmakes.website/slack-emoji-converter/) :  Emoji ASCII Art Converter 
