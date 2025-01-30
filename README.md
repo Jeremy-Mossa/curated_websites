@@ -16,7 +16,10 @@ Useful websites found over the years.
 * [https://www.mailinator.com](https://www.mailinator.com/)   Burner Email 4
 * [http://www.getnotify.com](http://www.getnotify.com/)   Tracks whether emails were opened and read by the receiver. Shows recipient’s IP Address, location, browser details etc.
 
-* [https://www.burnerapp.com](https://www.burnerapp.com/) : Burner is the original second phone number app for calling, texting and picture messaging. Stay safe and anonymous when you give out your number.
+## Burner Phone
+* [https://www.burnerapp.com](https://www.burnerapp.com/) :  Second phone number for calling, texting etc.
+
+## Miscellaneous
 
 * [https://ahmia.fi](https://ahmia.fi/) : Ahmia searches hidden services on the Tor network. To access these hidden services, you need the TOR browser bundle.
 * [http://www.allyoucanread.com](http://www.allyoucanread.com/) : The largest database of newspapers and magazines on the Internet.
