@@ -20,6 +20,7 @@ Will update this if others provide more useful links
 * [https://www.mojeek.com](https://www.mojeek.com)  british search engine
 * [https://search.brave.com](https://search.brave.com)  proprietary search index
 * [https://yacy.net/faq/](https://yacy.net/faq/)   YaCy de-centalized search
+* [https://wiby.me](https://wiby.me)  smolweb search
 
 ## Videos
 * [https://inv.nadeko.net/search?q=youtube+proxies](https://inv.nadeko.net/search?q=youtube+proxies)  watch youtube with ostensibly less trackers
