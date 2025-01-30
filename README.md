@@ -1,5 +1,3 @@
-# Bookmarks [![bookmarks](https://images.all-free-download.com/images/graphiclarge/bookmark_sign_icon_3d_contrast_black_white_sketch_6922536.jpg)](https://images.all-free-download.com)
-
 ## What is this?
 
 A sort of e-journal.
