@@ -12,6 +12,7 @@ Will update this if others provide more useful links
 ## Search Engines and resources
 * [https://ddg.gg](https://ddg.gg)   DuckDuckGo
 * [https://www.startpage.com](https://www.startpage.com)  protected by Dutch and EU privacy laws
+* [https://yacy.net/faq/](https://yacy.net/faq/)  YaCy de-centalized
 * [https://www.ecosia.org](https://www.ecosia.org/)  plant trees with via revenue from ads
  
 ## Email 
