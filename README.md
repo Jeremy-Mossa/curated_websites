@@ -1,8 +1,11 @@
 ## What is this?
 
 A sort of e-journal.
+
 Useful websites found over the years.
-A work in progress
+
+A work in progress.
+
 Will update this if others provide more useful links
 
 
