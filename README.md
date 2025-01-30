@@ -20,6 +20,7 @@ Will update this if others provide more useful links
 * [https://www.mojeek.com](https://www.mojeek.com)  british search engine
 * [https://search.brave.com](https://search.brave.com)  proprietary search index
 * [https://yacy.net/faq/](https://yacy.net/faq/)   YaCy de-centalized search
+* [https://www.100searchengines.com](https://www.100searchengines.com)  "why use one when you can use 100?" :-/
 * [https://wiby.me](https://wiby.me)  smolweb search
 
 ## Videos
