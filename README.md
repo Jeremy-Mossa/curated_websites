@@ -27,6 +27,9 @@ Will update this if others provide more useful links
 * [https://inv.nadeko.net/search?q=youtube+proxies](https://inv.nadeko.net/search?q=youtube+proxies)  watch youtube with ostensibly less trackers
 
 ## Linux Hardware
+* [https://shop.puri.sm](https://shop.puri.sm)  Linux phones and laptops accessories
+* [https://system76.com](https://system76.com)  Linux laptops, PCs, servers and more
+
 
 ## Email 
 * [https://10minutemail.com](https://10minutemail.com/)  Burner Email 1
