@@ -30,6 +30,7 @@ Will update this if others provide more useful links
 * [https://shop.puri.sm](https://shop.puri.sm)  Linux phones and laptops accessories
 * [https://system76.com](https://system76.com)  Linux laptops, PCs, servers and more
 * [https://www.tuxedocomputers.com](https://www.tuxedocomputers.com)  Linux laptops, PCs etc located in Germany
+* [https://slimbook.com](https://slimbook.com)  Linux laptops etc located in Spain
 
 ## Email 
 * [https://10minutemail.com](https://10minutemail.com/)  Burner Email 1
