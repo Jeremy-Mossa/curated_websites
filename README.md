@@ -14,7 +14,8 @@ Will update this if others provide more useful links
 * [https://www.startpage.com](https://www.startpage.com)  protected by Dutch and EU privacy laws
 * [https://yacy.net/faq/](https://yacy.net/faq/)  YaCy de-centalized
 * [https://www.ecosia.org](https://www.ecosia.org/)  plant trees with via revenue from ads
-* [https://swisscows.com](https://swisscows.com)  swiss anon search engine 
+* [https://swisscows.com](https://swisscows.com)  swiss search engine 
+* [https://privacia.org](https://privacia.org)  another swiss search engine
 * [https://www.qwant.com](https://www.qwant.com) french search engine
 * [https://metager.de](https://metager.de) german search engine
 * [https://www.mojeek.com](https://www.mojeek.com) british search engine
