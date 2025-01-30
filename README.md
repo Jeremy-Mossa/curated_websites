@@ -26,6 +26,8 @@ Will update this if others provide more useful links
 ## Videos
 * [https://inv.nadeko.net/search?q=youtube+proxies](https://inv.nadeko.net/search?q=youtube+proxies)  watch youtube with ostensibly less trackers
 
+## Linux Hardware
+
 ## Email 
 * [https://10minutemail.com](https://10minutemail.com/)  Burner Email 1
 * [https://burnermail.io](https://burnermail.io/)  Burner Email 2 
