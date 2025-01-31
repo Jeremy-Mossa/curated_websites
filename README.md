@@ -29,6 +29,7 @@ Will update this if others provide more useful links
 * [https://www.100searchengines.com](https://www.100searchengines.com)  "why use one when you can use 100?" :-/
 * [https://www.searchenginemap.com](https://www.searchenginemap.com)  search engine node map
 * [https://wiby.me](https://wiby.me)  smolweb search
+* [https://archive.org](https://archive.org)  wayback machine, and archives of almost everything
 
 ## "Ai" (smol 'i': they're not really intelligent)
 * [https://andisearch.com](https://andisearch.com)  andi search engine
