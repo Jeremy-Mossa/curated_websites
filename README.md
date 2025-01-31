@@ -14,10 +14,15 @@ Will update this if others provide more useful links
 * [https://www.startpage.com](https://www.startpage.com)   protected by Dutch and EU privacy laws
 * [https://www.ecosia.org](https://www.ecosia.org/)   plant trees with via revenue from ads
 * [https://swisscows.com](https://swisscows.com)   swiss search engine 
-* [https://privacia.org](https://privacia.org)   another swiss search engine
+* [https://privacia.org](https://privacia.org)  swiss search engine
+* [https://www.etools.ch](https://www.etools.ch)  swiss metasearch engine
+* [https://tiger.ch](https://tiger.ch)  swiss anon metasearch engine
 * [https://www.qwant.com](https://www.qwant.com)  french search engine
+* [https://search.lilo.org](https://search.lilo.org) french search engine ostensibly focused on social issues
 * [https://metager.de](https://metager.de)  german search engine
 * [https://www.mojeek.com](https://www.mojeek.com)  british search engine
+* [https://www.naver.com](https://www.naver.com)  south korean search engine
+* [https://www.baidu.com/index.htm](https://www.baidu.com/index.htm)  chinese search engine
 * [https://search.brave.com](https://search.brave.com)  proprietary search index
 * [https://yacy.net/faq/](https://yacy.net/faq/)   YaCy de-centalized search
 * [https://www.100searchengines.com](https://www.100searchengines.com)  "why use one when you can use 100?" :-/
