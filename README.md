@@ -27,16 +27,22 @@ Will update this if others provide more useful links
 * [https://search.brave.com](https://search.brave.com)  proprietary search index
 * [https://yacy.net/faq/](https://yacy.net/faq/)  YaCy de-centalized search
 * [https://www.100searchengines.com](https://www.100searchengines.com)  "why use one when you can use 100?" :-/
+* [https://www.searchenginemap.com](https://www.searchenginemap.com)  search engine node map
 * [https://wiby.me](https://wiby.me)  smolweb search
+
+## "Ai" (smol 'i': they're not really intelligent)
+* [https://andisearch.com](https://andisearch.com)  andi search engine
+* [https://www.perplexity.ai](https://www.perplexity.ai)  perplexity search engine
 
 ## Videos
 * [https://inv.nadeko.net/search?q=youtube+proxies](https://inv.nadeko.net/search?q=youtube+proxies)  watch youtube with ostensibly less trackers
 
-## Linux Hardware
-* [https://shop.puri.sm](https://shop.puri.sm)  Linux phones and laptops accessories
-* [https://system76.com](https://system76.com)  Linux laptops, PCs, servers and more
-* [https://www.tuxedocomputers.com](https://www.tuxedocomputers.com)  Linux laptops, PCs etc located in Germany
-* [https://slimbook.com](https://slimbook.com)  Linux laptops etc located in Spain
+##  Hardware
+* [https://shop.puri.sm](https://shop.puri.sm)   phones and laptops accessories
+* [https://system76.com](https://system76.com)   laptops, PCs, servers and more
+* [https://www.tuxedocomputers.com](https://www.tuxedocomputers.com)   laptops, PCs etc located in Germany
+* [https://slimbook.com](https://slimbook.com)   laptops etc located in Spain
+* [https://preloaded.com](https://linuxpreloaded.com)  Linux laptop vendor list
 
 ## Email 
 * [https://10minutemail.com](https://10minutemail.com/)  Burner Email 1
@@ -86,7 +92,7 @@ Will update this if others provide more useful links
 * [https://devhints.io](https://devhints.io/)  Modest collection of cheatsheets for almost everything.
 * [https://www.random.org](https://www.random.org/)  random numbers generated from environmental noise
 * [http://sticker.exchange](http://sticker.exchange/)  International Sticker Exchange Comminuty.
-* [https://sadservers.com](https://sadservers.com/)  Practice fixing remote Linux servers
+* [https://sadservers.com](https://sadservers.com/)  Practice fixing remote  servers
 * [https://tls.ulfheim.net](https://tls.ulfheim.net/)  TLS connection explained and reproduced
 * [http://www.usefulscience.org](http://www.usefulscience.org/)  Science research summed as one-liners
 
