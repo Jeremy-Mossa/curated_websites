@@ -38,7 +38,7 @@ Will update this if others provide more useful links
 ## Videos
 * [https://inv.nadeko.net/search?q=youtube+proxies](https://inv.nadeko.net/search?q=youtube+proxies)  watch youtube with ostensibly less trackers
 
-##  Hardware
+## Linux Hardware
 * [https://shop.puri.sm](https://shop.puri.sm)   phones and laptops accessories
 * [https://system76.com](https://system76.com)   laptops, PCs, servers and more
 * [https://www.tuxedocomputers.com](https://www.tuxedocomputers.com)   laptops, PCs etc located in Germany
