@@ -44,6 +44,7 @@ Will update this if others provide more useful links
 * [https://www.tuxedocomputers.com](https://www.tuxedocomputers.com)   laptops, PCs etc located in Germany
 * [https://slimbook.com](https://slimbook.com)   laptops etc located in Spain
 * [https://preloaded.com](https://linuxpreloaded.com)  Linux laptop vendor list
+* [https://github.com/morrownr/USB-WiFi/blob/main/home/USB_WiFi_Adapters_that_are_supported_with_Linux_in-kernel_drivers.md](https://github.com/morrownr/USB-WiFi/blob/main/home/USB_WiFi_Adapters_that_are_supported_with_Linux_in-kernel_drivers.md)  Linux wifi usb list
 
 ## Email 
 * [https://10minutemail.com](https://10minutemail.com/)  Burner Email 1
